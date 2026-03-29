@@ -1,0 +1,9 @@
+# removing the Assignment (questions) PDFs
+Unit–1 Assignment.pdf
+tower_of_hanoi.py
+
+#removing the word document
+*.docx
+
+#removing the .tmp files
+*.tmp
